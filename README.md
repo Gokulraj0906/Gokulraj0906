@@ -10,6 +10,6 @@
 
 🌟 Fun fact: I love combining my technical skills with creative hobbies like digital art and music production.
 
-🔗 Connect with me on LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/gokulraj0906))
+🔗 Connect with me on LinkedIn: [GokulRaj.S]((https://www.linkedin.com/in/gokulraj0906))
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
