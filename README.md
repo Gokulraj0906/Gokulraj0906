@@ -39,3 +39,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokulraj0906&show_icons=true&locale=en" alt="gokulraj0906" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulraj0906&" alt="gokulraj0906" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gokulraj0906&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gokulraj0906&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulraj0906&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gokulraj0906) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
