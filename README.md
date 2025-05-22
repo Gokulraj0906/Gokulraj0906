@@ -31,9 +31,9 @@
 <a href="https://www.leetcode.com/gokulsenthil0906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gokulsenthil0906" height="30" width="40" /></a>
 </p>
 
-<h1 align="center"> Languages and Tools:</h1>
+<h1  > Languages and Tools:</h1>
 <br>
-<h2 align="center">Programming Languages: </h2>
+<h2  >Programming Languages: </h2>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 &nbsp;&nbsp;&nbsp;
@@ -49,7 +49,7 @@
 </p>
 <br>
 
-<h2 align="center"> Web Development: </h2>
+<h2  > Web Development: </h2>
 <br>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -67,7 +67,7 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 <br>
-<h2 align="center">Backend & Frameworks:</h2>
+<h2  >Backend & Frameworks:</h2>
 <br>
 <p align="left">
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
@@ -77,7 +77,7 @@
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
 </p>
 <br>
-<h2 align="center">Machine Learning & AI:</h2>
+<h2  >Machine Learning & AI:</h2>
 <p align="left">
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 &nbsp;&nbsp;&nbsp;
@@ -92,7 +92,7 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 </p>
 <br>
-<h2 align="center">Databases:</h2>
+<h2  >Databases:</h2>
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 &nbsp;&nbsp;&nbsp;
@@ -105,7 +105,7 @@
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
 </p>
 <br>
-<h2 align="center">Cloud & DevOps:</h2>
+<h2  >Cloud & DevOps:</h2>
 <br>
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -119,7 +119,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 <br>
-<h2 align="center">Other Tools:</h2>
+<h2  >Other Tools:</h2>
 <br>
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
