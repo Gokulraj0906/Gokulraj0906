@@ -140,18 +140,17 @@ class Gokulraj:
 </p>
 
 ---
-
 ## 📊 GitHub Stats
- 
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gokulraj0906&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokulraj0906&theme=tokyonight" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=gokulraj0906&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulraj0906&theme=tokyonight&hide_border=true&layout=compact" />
+<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulraj0906&theme=tokyonight" />
 
 </div>
 ---
