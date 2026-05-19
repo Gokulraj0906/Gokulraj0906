@@ -24,8 +24,8 @@
 ```python
 class Gokulraj:
     name       = "Gokulraj S"
-    location   = "Puducherry, India 🇮🇳"
-    role       = "Student · Developer · AI Enthusiast"
+    location   = "Tamil Nadu, Chennai, India 🇮🇳"
+    role       = "Developer · AI Enthusiast · Quantum Enthusiast"
     focus      = ["Machine Learning", "Deep Learning", "Quantum Computing"]
     learning   = ["Qiskit", "Next.js", "React.js", "Express.js"]
     experience = ["Java Spring Boot", "Rust Axum"]
@@ -176,7 +176,7 @@ class Gokulraj:
 | Platform | Link |
 |----------|------|
 | 📧 Email | gokulsenthil0906@gmail.com |
-| 🌐 Portfolio | [gokulraj.tech](https://www.gokulraj.engineer/) |
+| 🌐 Portfolio | [gokulraj.engineer](https://www.gokulraj.engineer/) |
 | 📄 Resume | [View on Google Drive](https://drive.google.com/file/d/14jMWj6nNjQZDU_L-kXAbkufYQX20yzqv/view?usp=sharing) |
 | 💬 Ask me about | Machine Learning, Deep Learning, AI, Data Science, Quantum Computing |
 
