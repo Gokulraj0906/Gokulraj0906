@@ -144,12 +144,16 @@ class Gokulraj:
 ## 📊 GitHub Stats
  
 <div align="center">
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gokulraj0906&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-<img width="49%" src="https://streak-stats.demolab.com?user=gokulraj0906&theme=tokyonight&hide_border=true" />
-<br/>
-<img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gokulraj0906&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</div>
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gokulraj0906&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=gokulraj0906&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulraj0906&theme=tokyonight&hide_border=true&layout=compact" />
+
+</div>
 ---
 
 ## 🏆 Trophies
